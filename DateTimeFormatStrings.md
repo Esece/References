@@ -1,5 +1,7 @@
 # DateTime Format Strings
 
+[Custom Date and Time Format Strings](https://docs.microsoft.com/en-us/dotnet/standard/base-types/custom-date-and-time-format-strings)
+
 Example: 2009-06-01T13:45:30.7160000
 
 |Specifier|Result|
