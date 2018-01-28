@@ -9,3 +9,7 @@
 #### AngularJS
 
 [https://angularjs.org/](https://angularjs.org/)
+
+#### jQuery CDN – Latest Stable Versions
+
+[http://code.jquery.com/](http://code.jquery.com/)
