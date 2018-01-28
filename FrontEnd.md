@@ -13,3 +13,12 @@
 #### jQuery CDN – Latest Stable Versions
 
 [http://code.jquery.com/](http://code.jquery.com/)
+
+#### ngCloak
+angular-csp.css
+```css
+[ng\:cloak], [ng-cloak], [data-ng-cloak], [x-ng-cloak], .ng-cloak, .x-ng-cloak {
+  display: none !important;
+}
+```
+
