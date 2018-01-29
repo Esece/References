@@ -1,6 +1,26 @@
 # References
 
-#### [.Net Culture and Country Codes](https://github.com/s78/References/blob/master/CultureAndCountryCodes.md)
+### Backend Libraries
+||URL|
+|-----|-----|
+|Autofac|http://autofaccn.readthedocs.io/en/latest/index.html|
+|Ninject|https://github.com/ninject/Ninject|
+
+### Frontend Libraries
+||URL|
+|-----|-----|
+|jQuery|https://jquery.com/|
+|jQuery CDN|http://code.jquery.com/|
+|jQuery Validate|https://jqueryvalidation.org/|
+|AngularJS|https://angularjs.org/|
+|Bootstrap 4|https://getbootstrap.com/docs/4.0/getting-started/introduction/|
+
+### Links
+||URL|
+|-----|-----|
+|Custom Date and Time Format Strings|https://docs.microsoft.com/en-us/dotnet/standard/base-types/custom-date-and-time-format-strings|
+
+### .Net Culture and Country Codes
 
 |Country|Two Letter Country Code|Three Letter Country Code|Language|Two Letter Lang Code|Three Letter Lang Code|CultureInfo Code|
 |-------|-----------------------|-------------------------|--------|--------------------|----------------------|----------------|
@@ -17,5 +37,3 @@
 |Canada |CA |CAN |English |en |eng |en-CA| 
 
 [More...](https://github.com/s78/References/blob/master/CultureAndCountryCodes.md)
-
-
