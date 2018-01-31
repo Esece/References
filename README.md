@@ -5,6 +5,7 @@
 |-----|-----|
 |Autofac|http://autofaccn.readthedocs.io/en/latest/index.html|
 |Ninject|https://github.com/ninject/Ninject|
+|Json.net|https://www.newtonsoft.com/json|
 
 ### Frontend Libraries
 ||URL|
