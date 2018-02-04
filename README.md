@@ -8,6 +8,16 @@
 |Json.NET|JSON Serializer|https://www.newtonsoft.com/json|
 |Auto Mapper|Object Mapper|http://automapper.org/|
 |Simple Injector|DI Container|http://simpleinjector.readthedocs.io/en/latest/index.html|
+|DevExpress|UI|https://www.devexpress.com/|
+|Telerik|UI|http://www.telerik.com|
+|ComponentOne|UI|https://www.componentone.com|
+|Infragistics|UI|https://www.infragistics.com/|
+|Nevron|UI|https://www.nevron.com/|
+|Syncfusion|UI|https://www.syncfusion.com/|
+|Actipro|UI|http://www.actiprosoftware.com/|
+|PdfReport|PDF Editor|https://github.com/VahidN/PdfReport|
+|NReco|PDF Convertor|https://www.nrecosite.com/pdf_generator_net.aspx|
+|ComponentSource|Reseller|https://www.componentsource.com/|
 
 ### Frontend Libraries
 ||URL|
