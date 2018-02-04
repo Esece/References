@@ -1,11 +1,13 @@
 # References
 
 ### Backend Libraries
-||URL|
-|-----|-----|
-|Autofac|http://autofaccn.readthedocs.io/en/latest/index.html|
-|Ninject|https://github.com/ninject/Ninject|
-|Json.NET|https://www.newtonsoft.com/json|
+||Type|URL|
+|-----|-----|-----|
+|Autofac|DI Container|http://autofaccn.readthedocs.io/en/latest/index.html|
+|Ninject|DI Container|https://github.com/ninject/Ninject|
+|Json.NET|JSON Serializer|https://www.newtonsoft.com/json|
+|Auto Mapper|Object Mapper|http://automapper.org/|
+|Simple Injector|DI Container|http://simpleinjector.readthedocs.io/en/latest/index.html|
 
 ### Frontend Libraries
 ||URL|
