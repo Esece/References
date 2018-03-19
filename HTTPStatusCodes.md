@@ -14,3 +14,7 @@
 |415|Unsupported Media Type|Client media type (Content-Type) not supported
 |500|Internal Server Error|Generic server runtime error
 
+Details:
+https://restfulapi.net/http-status-codes/
+https://en.wikipedia.org/wiki/List_of_HTTP_status_codes
+https://tools.ietf.org/html/rfc7231
