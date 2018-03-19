@@ -15,6 +15,9 @@
 |500|Internal Server Error|Generic server runtime error
 
 Details:
+
 https://restfulapi.net/http-status-codes/
+
 https://en.wikipedia.org/wiki/List_of_HTTP_status_codes
+
 https://tools.ietf.org/html/rfc7231
