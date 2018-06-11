@@ -18,6 +18,7 @@
 |PdfReport|PDF Editor|https://github.com/VahidN/PdfReport|
 |NReco|PDF Convertor|https://www.nrecosite.com/pdf_generator_net.aspx|
 |ComponentSource|Reseller|https://www.componentsource.com/|
+|AngleSharp|HtmlParser|https://anglesharp.github.io/|
 
 ### Frontend Libraries
 ||URL|
