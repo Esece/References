@@ -38,6 +38,7 @@
 |HTTP Status Tester|https://httpstat.us/400|
 |codeshare|https://codeshare.io/|
 |Bensound|https://www.bensound.com/|
+|FreeLogoDesign|https://www.freelogodesign.org/|
 |UPS Rates|https://wwwapps.ups.com/ctc/request?loc=en_US|
 
 ### .Net Culture and Country Codes
